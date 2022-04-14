@@ -1,24 +1,36 @@
-# README
+# 余り物 Cook
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
 
-Things you may want to cover:
+### サイトテーマ
 
-* Ruby version
+余り物の食材で料理ができ、買い物に行く時にも便利なサイト。
 
-* System dependencies
+### テーマを選んだ理由
 
-* Configuration
+1 人暮らしをしていて自炊をするので、冷蔵庫の残りで料理をする時もあるが、 他の人はどんな料理を作っているのか気になるし、共有したり、参考にできると便利だと思ったから。
+そして、自分だけでなく他の人も余り物だけでどう料理して良いのか分からない事があると思うので、冷蔵庫の中身を入力して検索したら、料理のレシピが分かるようなサイトやアプリがあれば多くの人が利用すると思ったので、このテーマを選びました。
 
-* Database creation
+### ターゲットユーザ
 
-* Database initialization
+・今ある食材だけで料理がしたい人
+・どんな料理を作ろうか迷ってる人
+・簡単にすぐ出来る料理を作りたい人
+・買い物中に何が必要なのかすぐに確認したい人。
 
-* How to run the test suite
+### 主な利用シーン
 
-* Services (job queues, cache servers, search engines, etc.)
+買い物を忘れた時や買い物に行くのが面倒くさい時に、冷蔵庫の中身を見てどんな料理が作れるのか調べたい時に利用する。
+買い物前はメモをして、買い物中は確認できるように利用する。
 
-* Deployment instructions
+## 設計書
 
-* ...
+## 開発環境
+
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JS ライブラリ：jQuery
+- IDE：Cloud9
+
+## 使用素材
